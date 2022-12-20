@@ -1,4 +1,4 @@
-TEST 1
+TEST 2
 
 Base template for Drupal 9 projects hosted on Lagoon
 
